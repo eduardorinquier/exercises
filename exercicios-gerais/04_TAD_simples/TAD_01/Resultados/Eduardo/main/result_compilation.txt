@@ -1,0 +1,4 @@
+main.c: In function ‘main’:
+main.c:11:23: warning: comparison between pointer and integer
+   11 |         if(AcabouJogo == 1){
+      |                       ^~

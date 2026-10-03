@@ -1,0 +1,4 @@
+tabuleiro.c: In function ‘EhPosicaoValidaTabuleiro’:
+tabuleiro.c:111:23: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+  111 |     if(x < 0 || x > 2 && y < 0 || y > 2){
+      |                 ~~~~~~^~~~~~~~

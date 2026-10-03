@@ -1,0 +1,6 @@
+==781== Memcheck, a memory error detector
+==781== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==781== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==781== Command: Resultados/Eduardo/main/prog Resultados/Eduardo/main/Casos/2
+==781== Parent PID: 780
+==781== 

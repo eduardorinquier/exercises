@@ -1,0 +1,6 @@
+==726== Memcheck, a memory error detector
+==726== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==726== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==726== Command: Resultados/Eduardo/main/prog Resultados/Eduardo/main/Casos/1
+==726== Parent PID: 725
+==726== 

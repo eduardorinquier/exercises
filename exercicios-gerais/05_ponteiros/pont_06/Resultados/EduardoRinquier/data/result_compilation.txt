@@ -1,0 +1,4 @@
+data.c: In function ‘EhBissexto’:
+data.c:67:69: warning: suggest parentheses around ‘&&’ within ‘||’ [-Wparentheses]
+   67 |     if(data->ano%4 == 0 || data->ano%100 == 0 && data->ano%400 == 0 && data->ano%4 == 0){
+      |                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~

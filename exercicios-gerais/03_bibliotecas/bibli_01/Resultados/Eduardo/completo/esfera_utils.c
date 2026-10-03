@@ -6,7 +6,7 @@
  * @return O volume da esfera.
  */
 float calcula_volume (float R){
-    return (4/3)*R*R*R;
+    return (4*R*R*R*PI)/3;
 }
 
 /**
